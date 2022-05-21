@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notare&theme=default" alt="notare" /></p>
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rsousa10&cover_image=true&theme=default" /></div>  
