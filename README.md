@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **renatosousadev@gmail.com**
 
-- ⚡ Fun fact **I ventured a bit with SQL in my teenage years creating servers for a game called MU Online.**
+- ⚡ Fun fact **In my teenage years, I ventured a bit with SQL creating servers for a game called MU Online.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
