@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PC gaming, metal music, electric guitar, roundnet.**
 
-- 📫 How to reach me **renatosousadev@gmail.com**
+- 📫 How to reach me **devrenatosousa@gmail.com**
 
 - ⚡ Fun fact **In my teenage years, I ventured a bit with SQL creating servers for a game called MU Online.**
 
