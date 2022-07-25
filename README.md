@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS.**
 
-- 💬 Ask me about **PC gaming, metal music, electric guitar, roundnet.**
+- 💬 I'm interested in **PC gaming, metal music, electric guitar, roundnet.**
 
 - 📫 How to reach me **devrenatosousa@gmail.com**
 
