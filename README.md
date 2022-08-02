@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Renato</h1>
-<h3 align="center">A passionate software engineer from Rio de Janeiro, Brazil.</h3>
+<h1 align="center">Hi, I'm Renato</h1>
+<h3 align="center">A passionate software engineer from Rio de Janeiro, Brazil</h3>
 
-- 🌱 I’m currently learning **HTML and CSS.**
+- 🌱 I’m currently learning **HTML and CSS**
 
-- 💬 I'm interested in **PC gaming, metal music, electric guitar, roundnet.**
+- 💬 I'm interested in **PC gaming, metal music, electric guitar, and roundnet**
 
 - 📫 How to reach me **devrenatosousa@gmail.com**
 
-- ⚡ Fun fact **In my teenage years, I ventured a bit with SQL creating servers for a game called MU Online.**
+- ⚡ Fun fact **In my teenage years, I ventured a bit with SQL creating servers for a game called MU Online**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
