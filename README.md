@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Renato</h1>
 <h3 align="center">A passionate software engineer from Rio de Janeiro, Brazil</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning **front-end web development**
 
 - 💬 I'm interested in **PC gaming, metal music, electric guitar, and roundnet**
 
