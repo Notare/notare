@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **devrenatosousa@gmail.com**
 
-- ⚡ Fun fact **In my teenage years, I played a bit with SQL creating servers for the game MU Online**
+- ⚡ Fun fact **In my teenage years, I used SQL a bit to create servers for the game MU Online**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
