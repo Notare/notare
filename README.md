@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning **front-end web development**
 
-- 💬 I'm interested in **PC gaming, metal music, electric guitar, and roundnet**
+- 💬 I'm interested in **PC gaming, metal music, electric guitar, and spikeball**
 
 - 📫 How to reach me **devrenatosousa@gmail.com**
 
