@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **front-end web development**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 I'm interested in **PC gaming, metal music, electric guitar, and spikeball**
 
