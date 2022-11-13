@@ -2,7 +2,7 @@
 
 - 💬 I'm interested in **PC gaming, metal music, electric guitar, and spikeball**
 
-- 📫 How to reach me **devrenatosousa@gmail.com**
+//- 📫 How to reach me **devrenatosousa@gmail.com**
 
 - ⚡ Fun fact **In my teenage years, I used SQL a bit to create servers for the game MU Online**
 
