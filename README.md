@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
-- 💬 I'm interested in **PC gaming, metal music, electric guitar, and spikeball**
+- 💬 I like **PC gaming, metal music, electric guitar, and spikeball**
 
 <!--- 📫 How to reach me **devrenatosousa@gmail.com**-->
 
