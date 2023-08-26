@@ -1,20 +1,33 @@
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 I like **PC gaming, metal music and electric guitar**
-
-<!--- 📫 How to reach me **devrenatosousa@gmail.com**-->
+- 💬 I like **PC gaming, metal music, and electric guitar**
 
 - ⚡ Fun fact **In my teenage years, I used to create servers for the game MU Online using SQL**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/devrenatosousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renatosousadev" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/devrenatosousa" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://www.codewars.com/users/Notare" target="_blank">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+# Languages and Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=notare&show_icons=true&title_color=0080ff&text_color=000000&locale=en" alt="notare" /></p>
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=notare&date_format=M%20j%5B%2C%20Y%5D&ring=0080FF&fire=0080FF&currStreakLabel=0080FF" alt="notare" /></p>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+# Others
+
+<a href="https://open.spotify.com/user/rsousa10?si=b787cef928744e68" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/>
+</a>
+<a href="https://steamcommunity.com/id/renatonotare/" target="_blank">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
+</a>
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=R_Sousa)](https://www.last.fm/user/R_Sousa)
