@@ -4,12 +4,8 @@
 
 - ⚡ Fun fact **In my teenage years, I used to create servers for the game MU Online using SQL**
 
-<a href="https://www.linkedin.com/in/devrenatosousa" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://www.codewars.com/users/Notare" target="_blank">
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrenatosousa)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Notare)
 
 # Languages and Tools
 
