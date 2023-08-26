@@ -32,6 +32,3 @@
 </a>
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=R_Sousa&count=10)](https://www.last.fm/user/R_Sousa)
-
- <!-- steam-box-recent start -->
- <!-- steam-box-recent end -->
