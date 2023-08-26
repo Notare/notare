@@ -17,3 +17,4 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=notare&show_icons=true&title_color=0080ff&text_color=000000&locale=en" alt="notare" /></p>
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=notare&date_format=M%20j%5B%2C%20Y%5D&ring=0080FF&fire=0080FF&currStreakLabel=0080FF" alt="notare" /></p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
