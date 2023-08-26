@@ -1,8 +1,8 @@
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning how to use the Fetch API.
 
-- 💬 I like **PC gaming, metal music, and electric guitar**
+- 💬 I like to play games on PC, listen to metal and play guitar.
 
-- ⚡ Fun fact **In my teenage years, I used to create servers for the game MU Online using SQL**
+- ⚡ Fun fact: In my teenage years, I used to create servers for the game MU Online using SQL.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](https://renatosousa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrenatosousa)
