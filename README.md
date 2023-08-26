@@ -4,6 +4,7 @@
 
 - ⚡ Fun fact **In my teenage years, I used to create servers for the game MU Online using SQL**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](https://renatosousa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrenatosousa)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Notare)
 
