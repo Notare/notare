@@ -31,4 +31,4 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
 </a>
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=R_Sousa)](https://www.last.fm/user/R_Sousa)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=R_Sousa&count=10)](https://www.last.fm/user/R_Sousa)
