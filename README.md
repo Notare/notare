@@ -24,10 +24,10 @@
 
 # Others
 
-<a href="https://open.spotify.com/user/rsousa10?si=b787cef928744e68" target="_blank">
+<a href="https://open.spotify.com/user/rsousa10">
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/>
 </a>
-<a href="https://steamcommunity.com/id/renatonotare/" target="_blank">
+<a href="https://steamcommunity.com/id/renatonotare">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
 </a>
 
