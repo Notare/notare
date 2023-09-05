@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning how to use the Fetch API.
+- 🔭 I’m currently working on [Top Albums Finder](https://github.com/Notare/top-albums-finder), a web app that shows the top albums for an artist based on the number of listeners on Last.fm, ordered by popularity.
 
 - 💬 I like to play games on PC, listen to metal and play guitar.
 
