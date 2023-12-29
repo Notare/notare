@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Top Albums Finder](https://github.com/Notare/top-albums-finder), a web app that shows the top albums for an artist based on the number of listeners on Last.fm, ordered by popularity.   
+- 🔭 My interest in computing and technology started in my teenage years playing MMORPGs, I always wondered: "How are these games and programs made?", I even used to create servers for the game MU Online, but nothing more than that. After working with lots of Excel spreadsheets (thanks, IF function), I realized I wanted to do more than just formulas and functions, and that's when I decided to dive right into the programming field.
 
 - 💬 I like to play games on PC, listen to metal and play guitar.
 
@@ -7,6 +7,71 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#FF7139)](https://renatosousa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrenatosousa)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Notare)
+
+# Projects
+
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Top Albums Finder</h3>
+        <br />
+        <a target="_blank" href="https://github.com/Notare/top-albums-finder">
+            <img src="imgs/gif1.gif" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  </a>
+      </p>
+        <p>A website that shows the top albums for an artist based on the number of listeners on Last.fm, ordered by popularity.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Magic: The Gathering Card Randomizer</h3>
+        <br />
+      <a target="_blank" href="https://github.com/Notare/magic-the-gathering-card-randomizer">
+            <img src="imgs/gif2.gif" width="100%"  alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  
+  </a>
+      </p>
+        <p>A website that allows users to discover random Magic: The Gathering cards with just a click of a button.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Hades - Select Your Character</h3>
+      <br />
+        <a target="_blank" href="https://github.com/Notare/hades-select-your-character">
+          <img src="imgs/gif3.gif" width="100%" alt=""/>
+        </a>
+      <br />
+        <p align="center">
+  
+  </a>
+      </p>
+        <p>A "select your character" screen based on the Hades game.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Bia Cabeleireira</h3>
+        <br />
+        <a target="_blank" href="https://github.com/Notare/bia-cabeleireira">
+          <img src="imgs/gif4.gif" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  
+  </a>
+      </p>
+        <p>Stylish hair salon specializing in cuts, colors, and treatments for a confident look.</p>
+    </td>
+  </tr>
+</table>
 
 # Languages and Tools
 
