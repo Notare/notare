@@ -24,7 +24,7 @@
           
   </a>
       </p>
-        <p>A website that shows the top albums for an artist based on the number of listeners on Last.fm, ordered by popularity.</p>
+        <p>See the top albums for an artist based on the number of listeners on Last.fm, ordered by popularity.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Magic: The Gathering Card Randomizer</h3>
@@ -38,7 +38,7 @@
   
   </a>
       </p>
-        <p>A website that allows users to discover random Magic: The Gathering cards with just a click of a button.</p>
+        <p>Discover random Magic: The Gathering cards with just a click of a button.</p>
     </td>
   </tr>
   
