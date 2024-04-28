@@ -1,4 +1,4 @@
-- 🔭 My interest in computing and technology started in my teenage years playing MMORPGs, I always wondered: "How are these games and programs made?", I even used to create servers for the game MU Online, but nothing more than that. After working with lots of Excel spreadsheets (thanks, IF function), I realized I wanted to do more than just formulas and functions, and that's when I decided to dive right into the programming field.
+- 🔭 My interest in computing and technology started in my teenage years playing MMORPGs, I always wondered: "How are these games and programs made?", I even used to create servers for the game MU Online, but nothing more than that. After working with lots of Excel spreadsheets (thanks, IF function), I realized I wanted to do more than just formulas and functions, and that's when I decided to dive right into the programming field. 
 
 - 💬 I like to play games on PC, listen to music and play guitar.
 
