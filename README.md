@@ -75,14 +75,6 @@ My interest in computing and technology started when I got my first computer as 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<table>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=notare&show_icons=true&title_color=0080ff&text_color=000000&locale=en" alt="notare" />
-</td>
-<td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=notare&date_format=M%20j%5B%2C%20Y%5D&ring=0080FF&fire=0080FF&currStreakLabel=0080FF" alt="notare" /></td>
-</table>
-
 # Others
 
 <a href="https://open.spotify.com/user/rsousa10">
